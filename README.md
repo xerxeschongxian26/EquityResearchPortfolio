@@ -2,6 +2,7 @@
 * Repository containing fundamental analysis and valuation of Singapore-listed company, [Micro-Mechanics (Holdings) Ltd (SGX: 5DD)](https://sg.finance.yahoo.com/quote/5dd.si/)
 * Powerpoint slides contain summary of work and Excel Spreadsheet for number crunching and general plotting of data
 * Screenshots have been attached in this README.md as the powerpoint slides and excel files have to be **downloaded** for proper viewing
+* Screenshot of trading account also included in this README.md
 
 # Slides in Micro-Mechanics Analysis_ Xerxes.ppt
 <img src = "Screenshots/Slide1.PNG" width="800">
@@ -39,3 +40,6 @@
 
 # Screenshot of Micro-MechanicsRatiosValuation_Xerxes.xlsm
 <img src = "Screenshots/Excel1.PNG" width="800">
+
+# Screenshot of trading account as of 12/29/2020
+<img src = "Screenshots/TradingAcc1.PNG" width="800">
