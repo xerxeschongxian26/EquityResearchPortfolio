@@ -41,5 +41,5 @@
 # Screenshot of Micro-MechanicsRatiosValuation_Xerxes.xlsm
 <img src = "Screenshots/Excel1.PNG" width="800">
 
-# Screenshot of trading account as of 12/29/2020
-<img src = "Screenshots/TradingAcc1.PNG" width="800">
+# Screenshot of trading account as of 01/21/2020
+<img src = "Screenshots/TradingAcc2.PNG" width="800">
