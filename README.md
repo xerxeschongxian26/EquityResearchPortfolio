@@ -43,3 +43,6 @@
 
 # Screenshot of trading account as of 01/21/2020
 <img src = "Screenshots/TradingAcc2.PNG" width="800">
+
+# Screenshot of stock price as of 01/22/2020
+<img src = "Screenshots/StockChart.PNG" width="800">
